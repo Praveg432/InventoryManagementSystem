@@ -460,7 +460,7 @@ class IMS
 						if(ch==2)
 						{
 							clearScreen();
-							System.out.println("\n\n\n\n\t\t\t\tTHANK YOU FOR USING IMS\n\t\t\t\tDeveloped by : \n\t\t\t\tPraveg Vashishtha\n\t\t\t\tHarshita Ashwani\n\t\t\t\tAbhilash Kumar\n\t\t\t\tShubham Gupta");
+							System.out.println("\n\n\n\n\t\t\t\tTHANK YOU FOR USING IMS\n\t\t\t\tDeveloped by : \n\t\t\t\tPraveg Vashishtha");
 							ch=5;
 						}
 					}
